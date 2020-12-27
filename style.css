@@ -22,10 +22,10 @@ h1{
     color: rgb(179,131,226);
     font-size: 6rem;
     text-align: center;
-    opacity:0.4;
+    
 }
 form{
-    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     max-width: 100%;
     width: 400px
 
@@ -64,4 +64,26 @@ small{
     color: #b5b5b5;
     margin-top: 5rem;
     text-align: center;
+}
+
+
+@media(max-width:60rem){
+
+body{
+    padding: 0.5rem;
+}
+form{
+    width: 350px;
+}   
+h1{
+    font-size: 3rem;
+}
+.input{
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+.todos li{
+    font-size: 1rem;
+    padding:  0.5rem 1rem;
+    color: rgb(179,131,226);
 }
