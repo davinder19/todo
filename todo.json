@@ -7,7 +7,7 @@
     "description": "Todos App",
     "icon":[
         {
-            "src":"logo-1.png",
+            "src":"todo.png",
             "size":"192x192",
             "type":"png"
         }
