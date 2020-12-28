@@ -2,12 +2,12 @@
     "name": "Todos",
     "short_name": "Todos",
     "start_url": "/",
-    "disply":"standalone",
-    "background_color": "#b57dc8",
+    "display":"standalone",
+    "background_color": "#f1daf9",
     "description": "Todos App",
     "icon":[
         {
-            "src":"todo.png",
+            "src":"logo-1.png",
             "size":"192x192",
             "type":"png"
         }
