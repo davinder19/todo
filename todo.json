@@ -1,8 +1,8 @@
 {
-    "name": "Todos",
-    "short_name": "Todo's",
+    "name": "Todo's",
+    "short_name": "Todos",
     "start_url": "/",
-    "disply":"standalone",
+    "display":"standalone",
     "background_color": "#f5f5f5",
     "description": "Todos App",
     "icon":[
