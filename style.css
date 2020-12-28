@@ -71,6 +71,7 @@ small{
 @media(max-width:60rem){
 
 body{
+    background-color: #f1daf9;
     padding: 2rem;
 }
 form{
