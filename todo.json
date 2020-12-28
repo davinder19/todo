@@ -2,7 +2,7 @@
     "name": "Todos",
     "short_name": "Todos",
     "start_url": "/",
-    "display":"browser",
+    "disply":"standalone",
     "background_color": "#b57dc8",
     "description": "Todos App",
     "icon":[
